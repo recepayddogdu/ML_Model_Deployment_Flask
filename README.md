@@ -2,6 +2,10 @@
 
 Milli Eğitim Bakanlığı Veri Analitiği Merkezi tarafından planlanan projede veri analizi yapıldı ve makine öğrenmesi modelleri eğitildi. Eğitilen modeller web uygulaması ile canlı ortamda yayınlandı.
 
+Projenin geliştiricileri;
+- [Ayça Burcu Bingül](https://www.linkedin.com/in/aycaburcubingul/)
+- [Recep Aydoğdu](https://www.linkedin.com/in/recepayddogdu/)
+
 https://user-images.githubusercontent.com/53975964/133910260-481e059e-0054-4007-b22e-5ea71a639703.mp4
 
 #### Projede kullanılan Python kütüphaneleri;
@@ -53,3 +57,4 @@ https://user-images.githubusercontent.com/53975964/133910260-481e059e-0054-4007-
 	 - Cross-Validation
 	 - Confusion Matrix
 	 
+**[Çalışmanın detaylarını incelemek için tıklayınız.](https://drive.google.com/file/d/13mCI8HvlgjzGjf2yfauP3kWXGeP3Z7yQ/view)**
