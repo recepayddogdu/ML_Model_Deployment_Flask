@@ -6,6 +6,8 @@ Projenin geliştiricileri;
 - [Ayça Burcu Bingül](https://www.linkedin.com/in/aycaburcubingul/)
 - [Recep Aydoğdu](https://www.linkedin.com/in/recepayddogdu/)
 
+Çalışma sonunda oluşturulan web uygulaması aşağıdaki videoda görüntülenebilir. Öğrencinin seçimleri sonucunda, başarı tahmininin yanı sıra öğrencinin başarısına katkı sağlayabilecek kişiye özel tavsiye  ekranı bulunmaktadır;
+
 https://user-images.githubusercontent.com/53975964/133910260-481e059e-0054-4007-b22e-5ea71a639703.mp4
 
 #### Projede kullanılan Python kütüphaneleri;
